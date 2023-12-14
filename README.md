@@ -21,7 +21,7 @@ This passion of mine has given me the ability to develop a multitude of programs
 </div>
 <div id="badges">
   <a href="mailto:parekhaditya14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail: adityaparekh-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail: parekhaditya14-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
