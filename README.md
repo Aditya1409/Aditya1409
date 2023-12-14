@@ -6,7 +6,12 @@ This passion of mine has given me the ability to develop a multitude of programs
 About me: 
 - 🔭 I’m currently working on developing an android-based Recipe App
 - 🌱 I’m currently learning about databases, web development, and AWS
-- 📫 I'm seeking internship opportunities for Summer 2024, attached is my resume
+- 📫 I'm seeking internship opportunities for Summer 2024, attached is my <div>
+  <a href="https://github.com/Aditya1409/Resume/blob/main/AdityaParekh_Resume.pdf">Resume
+  </a>
+</div>
+
+---
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adityaparekh">
