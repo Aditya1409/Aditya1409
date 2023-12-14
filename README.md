@@ -1,9 +1,10 @@
-# Hi there! 👋
+# Hi there, I'm Aditya! 👋
 
 Welcome to my github! My name's Aditya Parekh and I am a junior at Kean University studying Computer Science. I have a passion for computer programming and software development.
 This passion of mine has given me the ability to develop a multitude of programs and learn new technologies.
 
-<p>About me:
+## About me 👨‍💻
+<p>
     <ul>
         <li>🔭 I’m currently working on developing an android-based Recipe App</li>
         <li>🌱 I’m currently learning about databases, web development, and AWS</li>
@@ -11,15 +12,18 @@ This passion of mine has given me the ability to develop a multitude of programs
     </ul>
 </p>
 
----
+### Connect With Me! 🤝
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adityaparekh">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn: adityaparekh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=Aditya1409&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  <a href="mailto:parekhaditya14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail: adityaparekh-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ---
 
