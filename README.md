@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Welcome to my github! My name's Aditya Parekh and I am a junior at Kean University studying Computer Science. I have a passion for computer programming and software development.
 This passion of mine has given me the ability to develop a multitude of programs and learn new technologies.
