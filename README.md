@@ -8,7 +8,7 @@ This passion of mine has given me the ability to develop a multitude of programs
     <ul>
         <li>🔭 I’m currently doing research on assessing the accuracy and reliability of real-time traffic data provided by leading navigation apps.</li>
         <li>🌱 I’m currently learning about databases, web development, and AWS.</li>
-        <li>📫 I'm seeking internship opportunities for Summer 2024, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/AdityaParekhResume.pdf">Resume</a></li>
+        <li>📫 I'm seeking internship opportunities for Summer 2024, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/Aditya_Parekh_Resume.pdf">Resume</a></li>
     </ul>
 </p>
 
