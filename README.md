@@ -1,11 +1,12 @@
 # Hi there, I'm Aditya! 👋
 
-Welcome to my github! My name's Aditya Parekh and I am a junior at Kean University studying Computer Science. I have a passion for computer programming and software development.
+Welcome to my github! My name's Aditya Parekh and I am an incoming senior at Kean University studying Computer Science. I have a passion for computer programming and software development.
 This passion of mine has given me the ability to develop a multitude of programs and learn new technologies.
 
 ## About me 👨‍💻
 <p>
     <ul>
+        <li>🏢 I'm currently interning at Quest Diagnostics as a Data Scientist.</li>
         <li>🔭 I’m currently doing research on assessing the accuracy and reliability of real-time traffic data provided by leading navigation apps.</li>
         <li>🌱 I’m currently learning about databases, web development, and AWS.</li>
         <li>📫 I'm seeking internship opportunities for Summer 2024, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/Aditya_Parekh_Resume.pdf">Resume</a></li>
