@@ -6,9 +6,10 @@ This passion of mine has given me the ability to develop a multitude of programs
 ## About me 👨‍💻
 <p>
     <ul>
-        <li>🏢 During summer 2024, I interned at Quest Diagnostics as a Data Scientist focused on GenAI.</li>
-        <li>🔭 I’m currently doing research on Real-Time Route Visualization with Traffic Cameras.</li>
-        <li>🌱 I’m currently taking interesting courses on machine learning and computer vision.</li>
+        <li>🏢 During summer 2024, I interned at Quest Diagnostics as an AI Intern.</li>
+        <li>🔭 I’m currently doing research on developing an AI-powered EHR summarization system in collaboration with CPC Integrated Health.</li>
+        <li>🌱 I’m currently taking interesting courses on artificial intelligence and networking.</li>
+        <li>🏆 I recently received my Certified Cloud Practitioner Certification from Amazon Web Services.</li> 
         <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/Aditya_Parekh_Resume.pdf">Resume</a></li>
     </ul>
 </p>
