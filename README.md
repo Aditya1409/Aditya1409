@@ -10,7 +10,7 @@ This passion of mine has given me the ability to develop a multitude of programs
         <li>🔭 I’m currently doing research on developing an AI-powered EHR summarization system in collaboration with CPC Integrated Health.</li>
         <li>🌱 I’m currently taking interesting courses on artificial intelligence and networking.</li>
         <li>🏆 I recently received my Certified Cloud Practitioner Certification from Amazon Web Services.</li> 
-        <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/Aditya_Parekh_Resume.pdf">Resume</a></li>
+        <li>📫 I'm seeking internship/full-time opportunities for Summer 2025, attached is my <a href="https://github.com/Aditya1409/Resume/blob/main/AdityaP_Resume.pdf">Resume</a></li>
     </ul>
 </p>
 
