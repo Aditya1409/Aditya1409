@@ -44,6 +44,9 @@ This passion of mine has given me the ability to develop a multitude of programs
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+
 </div>
 
 ### 🧠 Concepts:
